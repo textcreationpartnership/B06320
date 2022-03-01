@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two petitions to the honourable Court of Parliament in behalfe of episcopacy. One delivered by Sir Thomas Aston from the County Palatine of Chester. The other from the citties of L. and W.</title>
+            <author>Aston, Thomas, Sir, 1600-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06320</idno>
+            <idno type="STC">Wing T3524</idno>
+            <idno type="STC">ESTC R201124</idno>
+            <idno type="EEBO-CITATION">53299344</idno>
+            <idno type="OCLC">ocm 53299344</idno>
+            <idno type="VID">180066</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180066)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2812:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two petitions to the honourable Court of Parliament in behalfe of episcopacy. One delivered by Sir Thomas Aston from the County Palatine of Chester. The other from the citties of L. and W.</title>
+                  <author>Aston, Thomas, Sir, 1600-1645.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>City of London (England). Corporation.</author>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Episcopacy --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180066:1" rendition="simple:additions"/>
+            <p>TVVO PETITIONS TO <hi>THE HONO<g ref="char:V">Ʋ</g>RABLE CO<g ref="char:V">Ʋ</g>RT OF</hi> PARLIAMENT <hi>IN BEHALFE OF</hi>
+EPISCOPACY.</p>
+            <p>ONE DELIVERED BY S<hi rend="sup">r</hi> THOMAS ASTON from the County Palatine of <hi>Chester.</hi>
+            </p>
+            <p>THE OTHER FROM THE Citties of L. and W.</p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div n="Chester" type="petition">
+            <pb facs="tcp:180066:2"/>
+            <pb facs="tcp:180066:2"/>
+            <head>A PETITION DELIVERED INTO The Lords <hi>Spirituall</hi> and <hi>Temporall,</hi> by Sir THOMAS
+ASTON, Baronet, <hi>from the County Palatine of</hi> CHESTER concerning EPISCOPACIE.</head>
+            <head type="sub">To the High and Honorable Court of PARLIAMENT.</head>
+            <head type="sub">The Nobility, Knights, Gentry, Miniſters, Free-Holders, and Inhabitants of the
+County Palatine of <hi>Cheſter,</hi> whoſe names are ſubſcribed in the ſeverall Schedules
+here<g ref="char:EOLhyphen"/>unto annexed.</head>
+            <opener>Humbly ſhew,</opener>
+            <p>THat whereas divers Petitions have lately been carried about this County, againſt the
+preſent forme of Church-Government, (and the hands of many perſons of ordina<g ref="char:EOLhyphen"/>ry quality
+ſolicited to the ſame, with pre<g ref="char:EOLhyphen"/>tence to be preſented to this Honorable
+<pb facs="tcp:180066:3"/>Aſſembly:) which we conceiving not ſo much to ayme at reformation as abſolute
+innovation of Government, &amp; ſuch as muſt give a great advantage to the Adverſaries of our
+Religion, We held it our duty to diſ<g ref="char:EOLhyphen"/>avow them all.</p>
+            <p>And humbly pray, that We incurre no miſcenſure, if any ſuch clamours have (without our
+privity) aſſum'd the name of the County.</p>
+            <p>We, as others, are ſenſible of the com<g ref="char:EOLhyphen"/>mon Grievances of the Kingdome, &amp; have juſt
+cauſe to rejoyce at, and acknowledge with thankfulneſſe, the pious care which is already
+taken for the ſuppreſsing of the growth of Popery, the better ſupply of able Miniſters, and
+the removing of all Innova<g ref="char:EOLhyphen"/>tion; and We doubt not but in your great Wiſedomes, you will regulate
+the rigour of Eccleſiaſticall Courts, to ſuit with the tem<g ref="char:EOLhyphen"/>per of our lawes, and the nature
+of Free<g ref="char:EOLhyphen"/>men.</p>
+            <p>Yet when We conſider, that Biſhops were inſtituted in the time of the Apoſtles;
+<pb facs="tcp:180066:3"/>That they were the great lights of the Church in all the firſt generall Councells;
+That ſo many of them ſowed the ſeeds of Religion in their bloods, and reſcued
+Chri<g ref="char:EOLhyphen"/>ſtianity from utter extirpation in the Pri<g ref="char:EOLhyphen"/>mitive Heathen perſecutions; That to them we
+owe the redemption of the purity of the Goſpell We now profeſſe from Romiſh corruption;
+That many of them for the propagation of the truth, became glorious Martyrs; That divers of them
+(lately and yet living with us) have been ſo ſtrong aſ<g ref="char:EOLhyphen"/>ſertors of our Religion againſt
+its common enemy of Rome; And that their Govern<g ref="char:EOLhyphen"/>ment hath beene ſo long approved, ſo oft
+eſtabliſhed by the Common and Statute-Lawes of this Kingdome; And as yet no<g ref="char:EOLhyphen"/>thing in their
+doctrine (generally taught) diſſonant from the Word of God, or the Ar<g ref="char:EOLhyphen"/>ticles ratified by Law:
+In this caſe to call their Government a perpetuall vaſſalage, an intollerable bondage; And
+<hi>(primâ facie &amp; inauditâ alterá parte)</hi> to pray the preſent
+removall of them, or (as in ſome of their
+<pb facs="tcp:180066:4"/>Petitions) to ſeeke the utter diſſolution and ruine of their Offices (as
+Antichriſti<g ref="char:EOLhyphen"/>an:) We cannot conceive to reliſh of juſtice or charity, nor can We joyne with
+them.</p>
+            <p>But on the contrary, when We conſider the tenor of ſuch Writings, as in the name of
+Petitions are ſpread amongſt the Com<g ref="char:EOLhyphen"/>mon People; the tenents preached pub<g ref="char:EOLhyphen"/>liquely in Pulpits,
+and the contents of ma<g ref="char:EOLhyphen"/>ny printed Pamphlets, ſwarming amongſt us; all of them dangerouſly
+exciting a diſ<g ref="char:EOLhyphen"/>obedience to the eſtabliſhed forme of Go<g ref="char:EOLhyphen"/>vernment, and their ſeverall
+intimations of the deſire of the power of the Keyes, and that their Congregations may execute
+Ec<g ref="char:EOLhyphen"/>cleſiaſticall Cenſures within themſelves: We cannot but expreſſe our juſt feares,
+that their deſire is to introduce an abſolute Inno<g ref="char:EOLhyphen"/>vation of Presbyterial Government, where<g ref="char:EOLhyphen"/>by
+We, who are now governed by the Ca<g ref="char:EOLhyphen"/>non and Civill Lawes, diſpenſed by twen<g ref="char:EOLhyphen"/>ty-ſix Ordinaries
+(eaſily reſponſall to Par<g ref="char:EOLhyphen"/>liaments for any deviation from the rule of Law,) conceive We
+ſhould become expo<g ref="char:EOLhyphen"/>ſed
+<pb facs="tcp:180066:4"/>to the meere arbitrary Government of a numerous Presbytery, who together with their
+ruling Elders will ariſe to neere forty thouſand Church-Governours, and with their Adherents,
+muſt needs beare ſo great a ſway in the Common-wealth, that if future inconvenience ſhall
+be found in that Government, We humbly offer to con<g ref="char:EOLhyphen"/>ſideration, how theſe ſhall be reducible
+by Parliaments, how conſiſtent with a Monar<g ref="char:EOLhyphen"/>chy, and how dangerouſly conducible to an
+Anarchy, which We have iuſt cauſe to pray againſt, as fearing the conſequences would prove
+the utter loſſe of Learning and Lawes, which muſt neceſſarily produce an extermination of
+Nobility, Gentry, and Or<g ref="char:EOLhyphen"/>der, if not of Religion.</p>
+            <p>With what vehemency of ſpirit, theſe things are proſecuted, and how plauſibly ſuch
+popular infuſions ſpread as incline to a paritie, We held it our duty to repreſent to this
+Honorable Aſſembly; And humbly pray, that ſome ſuch preſent courſe be taken, as in your
+Wiſedomes ſhall be thought fit,
+<pb facs="tcp:180066:5"/>to ſuppreſſe the future diſperſing of ſuch dangerous diſcontents
+amongſt the Com<g ref="char:EOLhyphen"/>mon People. We having great cauſe to feare, that of all the diſtempers that
+at pre<g ref="char:EOLhyphen"/>ſent threaten the wellfare of this State, there is none more worthy the mature and grave
+conſideration of this Honorable Aſ<g ref="char:EOLhyphen"/>ſembly, then to ſtop the Torrent of ſuch Spirits
+before they ſwell beyond the bounds of Government: Then We doubt not but his Maieſtie
+perſevering in his gra<g ref="char:EOLhyphen"/>cious inclination to heare the complaints, and relieve the grievances of
+his Subiects in frequent Parliaments, it will ſo unite the Head and the Body, ſo
+indiſſolubly ce<g ref="char:EOLhyphen"/>ment the affections of his people to our Royall Soveraigne, that without any
+other change of Government, He can never want revenue, nor We iuſtice.</p>
+            <pb facs="tcp:180066:5"/>
+            <p>
+               <hi>We have preſumed to annex a Coppy of a Petition (or Libell) diſperſed, and certaine
+poſitions preacht in this County, which We con<g ref="char:EOLhyphen"/>ceive imply matter of dangerous conſequence to
+the peace both of Church and State. All which We humbly ſubmit to your great Iudgments, praying
+they may be read.</hi>
+            </p>
+            <closer>
+               <hi>And ſhall ever pray, &amp;c.</hi>
+               <signed>Subſcribed to this Petition,
+<list>
+                     <item>
+                        <hi>Foure Noblemen.</hi>
+                     </item>
+                     <item>
+                        <hi>Knight, Baronets, Knights and Eſquires, foureſcore and odde.</hi>
+                     </item>
+                     <item>
+                        <hi>Divines, threeſcore and ten.</hi>
+                     </item>
+                     <item>
+                        <hi>Gentlemen, three hundred and odde.</hi>
+                     </item>
+                     <item>
+                        <hi>Freeholders and other Inhabitants, above ſix thouſand.</hi>
+                     </item>
+                  </list> All of the ſame County.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>The Anti-Petition, or Anſwere to this, is a baſe</hi> Libell <hi>and a</hi>
+forgerie.</p>
+            </postscript>
+         </div>
+         <div n="London and Westminster" type="petition">
+            <pb facs="tcp:180066:6"/>
+            <head>TO THE <hi>HONORABLE, THE</hi> Knights, Cittizens, &amp;c.</head>
+            <head type="sub">The humble Petition of the Citties of L. and W.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THAT whereas there hath of late a Petition ſubſcribed by many (who pretend to be
+In<g ref="char:EOLhyphen"/>habitants of theſe Citties) been delivered, received, and read in this HO<g ref="char:EOLhyphen"/>NORABLE Houſe,
+againſt the ancient, preſent, and by Law eſtabliſhed Govern<g ref="char:EOLhyphen"/>ment of the Church, and that
+not ſo much for the Reformation of Biſhops, as for the utter ſubverſion and extirpation of
+Epiſco<g ref="char:EOLhyphen"/>pacy
+<pb facs="tcp:180066:6"/>it ſelfe; Wee whoſe names are un<g ref="char:EOLhyphen"/>derwritten, to ſhew there be many, and thoſe
+of the better ſort of the Inhabitants of theſe Citties otherwiſe and better minded, doe
+humbly repreſent unto this Honorable Houſe, theſe conſiderations following.</p>
+            <p n="1">I. That Epiſcopacy is as ancient as Chriſtianity it ſelfe in this Kingdome.</p>
+            <p n="2">II. That Biſhops were the chiefe in<g ref="char:EOLhyphen"/>ſtruments in the Reformation of this Church
+againſt Popery, and afterwards the moſt eminent Martyrs for the Proteſtant Religion, and
+ſince, the beſt and ableſt Champions for the defence of it.</p>
+            <p n="3">III. That ſince the Reformation, the times have been very peaceable, happy, and
+glorious, notwithſtanding Epiſcopall Go<g ref="char:EOLhyphen"/>vernment in the Church: and therefore that this
+Government can be no cauſe of our unhappineſſe.</p>
+            <p n="4">IV. We conceive that not only many Learned, but diverſe other Godly perſons would be
+much ſcandalled and troubled in Conſcience, if the Government of Epiſco<g ref="char:EOLhyphen"/>pacy,
+<pb facs="tcp:180066:7"/>conceived by them to be an Apoſtoli<g ref="char:EOLhyphen"/>call Inſtitution, were altered: &amp; ſince
+there is ſo much care taken, that no man ſhould be offended in the leaſt Ceremony, we hope
+there will be ſome, that ſuch mens Conſci<g ref="char:EOLhyphen"/>ences may not be preſſed upon, in a matter of
+an higher nature and conſequence, eſpe<g ref="char:EOLhyphen"/>cially conſidering that this Government by
+Epiſcopacy, is not only lawfull and conve<g ref="char:EOLhyphen"/>nient for edification, but likewiſe ſutable and
+agreeable to the Civill policie and Go<g ref="char:EOLhyphen"/>vernment of this State.</p>
+            <p n="5">V. That this Government is lawfull it appeares by the immediate, univerſall &amp;
+conſta<g ref="char:cmbAbbrStroke">̄</g>t practiſe of all the Chriſtian World, grounded upon Scripture, from the Apo<g ref="char:EOLhyphen"/>ſtles
+time to this laſt Age, for above 1500 yeares together: It being utterly incredible, if not
+impoſsible, that the whole Church for ſo long a time, ſhould not diſcover by Gods word this
+Government to be unlaw<g ref="char:EOLhyphen"/>full, if it had been ſo. To which may be ad<g ref="char:EOLhyphen"/>ded, that the moſt learned
+Proteſtants, even in thoſe very Churches which now are not
+<pb facs="tcp:180066:7"/>governed by Biſhops, doe not only hold the Government by Epiſcopacy to be lawfull,
+but wiſh that they themſelves might injoy it.</p>
+            <p>Againe, that the Government by Epiſco<g ref="char:EOLhyphen"/>pacy is not only lawfull, but convenient for
+edification, &amp; as much, or more conducing to Piety and devotion then any other, it ap<g ref="char:EOLhyphen"/>peares,
+becauſe no modeſt man denies, that the Primitive times were moſt famous for Piety,
+Conſtancy, &amp; Perſeverance in the Faith, notwithſtanding more frequent and more cruell
+perſecutions then ever have been ſince; and yet it is confeſſed, that the Church in thoſe
+times was govern'd by Biſhops.</p>
+            <p>Laſtly, That the Government of the Church by Epiſcopacy, is moſt ſutable to the frame
+and forme of the Civill Govern<g ref="char:EOLhyphen"/>ment here in this Kingdome, it appeares by the happy &amp;
+flouriſhing Union of them both, for ſo long a time together; Whereas no man can give us an
+aſſurance, how any Church Government beſides this (whereof
+<pb facs="tcp:180066:8"/>We have had ſo long an experience) will ſuit and agree with the Civill policie of
+this State. And We conceive it may be of dangerous conſequence, for men of ſetled fortunes to
+hazzard their eſtates, by making ſo great an alteration, and venturing upon a new forme of
+Government, whereof nei<g ref="char:EOLhyphen"/>ther We, nor our Anceſtors have had any tryall, or experience;
+eſpecially conſidering that thoſe, who would have Epiſcopacy to be aboliſhed, have not
+yet agreed, nor (as We are verily perſwaded) ever will or can agree upon any other common forme
+of Government to ſucceed in the roome of it, as appeares by the many different and con<g ref="char:EOLhyphen"/>trary
+draughts, and platformes they have made &amp; publiſhed, according to the ſeveral humors and
+ſects of thoſe that made them. Whereas, ſeeing every great alteration in a Church or State,
+muſt needs be dangerous, it is juſt and reaſonable that whoſoever would introduce a <hi>new
+forme</hi> in ſtead of an <hi>old one,</hi> ſhould be obliged to demonſtrate and make it
+evidently appeare aforehand,
+<pb facs="tcp:180066:8"/>that the Government he would introduce, is proportionably ſo much better, then that
+he would aboliſh, as may recompence the loſſe we may ſuſtaine, and may be worthy of the
+hazzard we muſt run, in aboliſhing the one, and in introducing and ſetling of the other. But
+this We are confident can ne<g ref="char:EOLhyphen"/>ver be done, in regard of this particular.</p>
+            <p>And therefore our humble and earneſt requeſt to this <hi>Honorable Houſe</hi> is, that as
+well in this conſideration, as all the other a<g ref="char:EOLhyphen"/>foreſaid, We may ſtill injoy that Govern<g ref="char:EOLhyphen"/>ment,
+which moſt probably holds its Inſti<g ref="char:EOLhyphen"/>tution from the <hi>Apoſtles,</hi> and moſt certainly
+its plantation with our <hi>Chriſtian Faith it ſelfe</hi> in this Kingdome, where it hath ever
+ſince flouriſhed, and continued for many Ages without any interruption or alterati<g ref="char:EOLhyphen"/>on: whereby
+it plainly appeares, that as it is the moſt excellent Government in it ſelfe; ſo it is the
+moſt ſutable, moſt agreeable, and every way moſt proportionable to the Ci<g ref="char:EOLhyphen"/>vill
+conſtitutions and temper of this State. And therefore We pray and hope will al<g ref="char:EOLhyphen"/>wayes
+<pb facs="tcp:180066:9"/>be continued, and preſerved in it &amp; by it, notwithſtanding the abuſes and
+cor<g ref="char:EOLhyphen"/>ruptions which in ſo long tract of time through the errors or negligences of men may have
+crept into it: Which abuſes and corruptions being all of them (what and how many ſoever they
+may be) but meere<g ref="char:EOLhyphen"/>ly accidentall to Epiſcopacy; We conceive and hope, there may be a Reformation
+of of the one, without deſtruction of the o<g ref="char:EOLhyphen"/>ther.</p>
+            <closer>Which is the humble ſuit of Ten thouſand thouſand.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
